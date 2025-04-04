@@ -2,7 +2,7 @@
 ## Renato Groffe e Walter Coan
 
 ### PowerPoint
-[PowerPoint Deck](https://pt.slideshare.net/slideshow/sql-saturday-2025-rag-cosmosdb-azure-open-ai/277532077)
+[PowerPoint Deck](https://pt.slideshare.net/slideshow/sql-saturday-2025-rag-cosmosdb-azure-openai/277534335)
 
 ### Fonte
 - [Azure Data Retrieval Augmented Generation Samples](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples/tree/main/C%23/CosmosDB-NoSQL?wt.mc_id=AZ-MVP-5003638)
