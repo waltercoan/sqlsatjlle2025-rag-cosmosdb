@@ -1,6 +1,9 @@
 # Implementando Retrieval-Augmented Generation utilizando Vector Search no Azure Cosmos DB ❤️
 ## Renato Groffe e Walter Coan
 
+### PowerPoint
+[PowerPoint Deck](https://pt.slideshare.net/slideshow/sql-saturday-2025-rag-cosmosdb-azure-open-ai/277532077)
+
 ### Fonte
 - [Azure Data Retrieval Augmented Generation Samples](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples/tree/main/C%23/CosmosDB-NoSQL?wt.mc_id=AZ-MVP-5003638)
 - [Retrieval Augmented Generation (RAG) in Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/gen-ai/rag?wt.mc_id=AZ-MVP-5003638)
