@@ -34,3 +34,9 @@ OPENAI_KEY=<CHAVE DO MODELO NO CHATGPT>
 OPENAI_EMBEDDING_ENDPOINT=https://<NOME DA INSTANCIA DO MODELO EMBEDDING>.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2023-05-15
 OPENAI_EMBEDDING_KEY=<CHAVE DO MODELO EMBEDDING>
 ```
+
+### Fotos
+|  |  |
+| -------- | ------- |
+| ![Foto1](./img/img1.jpg) | ![Foto2](./img/img2.jpg) |
+| ![Foto3](./img/img3.jpg) | ![Foto4](./img/img4.jpg) |
